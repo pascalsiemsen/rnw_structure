@@ -5,7 +5,6 @@
 \usepackage[parfill]{parskip}
 \usepackage[utf8]{inputenc}
 
-% Related to math
 \begin{document}
 
 <<child-demo, child='ch1.Rnw'>>=
