@@ -1,0 +1,4 @@
+% !Rnw root = root.Rnw 
+
+\section{Section 1}
+Test file
